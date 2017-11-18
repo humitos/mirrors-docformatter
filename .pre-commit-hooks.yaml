@@ -1,0 +1,7 @@
+-   id: docformatter
+    name: docformatter
+    entry: docformatter
+    language: python
+    files: \.py$
+    args: []
+

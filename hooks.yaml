@@ -3,5 +3,5 @@
     entry: docformatter
     language: python
     files: \.py$
-    args: []
+    args: ['-i']
 
